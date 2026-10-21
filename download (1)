@@ -1,0 +1,2 @@
+# Render & CI build configuration for npm
+legacy-peer-deps=true
